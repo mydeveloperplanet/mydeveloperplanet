@@ -10,7 +10,7 @@
 * Many are also linked from the Java Annotated Monthly of JetBrains
 
 ### Articles
-* February 2023 - NLJUG Java Magazine, Test Automation with Robot Framework
+* May 2023 - NLJUG Java Magazine 02/2023, Test Automation with Robot Framework
 
 ### Developer Community Sessions
 At TriOpSys, we share knowledge by means of Developer Community Sessions. I have given the following sessions:
