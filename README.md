@@ -24,6 +24,9 @@ At TriOpSys, we share knowledge by means of Developer Community Sessions. I have
 ### Presentations
 * 2014 - Nationale Carrière Beurs, [Rise of the new developer](https://www.carrierebeurs.nl/workshops/opkomst-van-de-nieuwe-ontwikkelaar/item10348)
 
+### Awards
+* NLJUG Innovation Award 2023 - We won the award with TriOpSys with Decision Support Tool for our customer LVNL (air traffic control the Netherlands). I was the driving force for signing up for the award.
+
 <!--
 **mydeveloperplanet/mydeveloperplanet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
