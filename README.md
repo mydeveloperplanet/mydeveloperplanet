@@ -9,6 +9,7 @@
 * Started in 2017 writing blogs at [mydeveloperplanet.com](https://www.mydeveloperplanet.com). I write about 20 blogs each year.
 * All my blogs are also published at [DZone](https://dzone.com/authors/mydeveloperplanet).
 * Many are also linked from the Java Annotated Monthly of JetBrains
+* Some are linked from *This Week in Spring* of the Spring blog (see an example [here](https://spring.io/blog/2024/01/02/this-week-in-spring-january-1st-2024/))
 
 ### Articles
 * May 2023 - NLJUG Java Magazine 02/2023, Test Automation with Robot Framework
