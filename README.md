@@ -7,7 +7,7 @@
 
 ### Technical blogs
 * Started in 2017 writing blogs at [mydeveloperplanet.com](https://www.mydeveloperplanet.com). I write about 20 blogs each year.
-* All my blogs are also published at [DZone](https://dzone.com/authors/mydeveloperplanet).
+* All my blogs are also published at [DZone](https://dzone.com/authors/mydeveloperplanet). See my [profile](https://dzone.com/authors/mydeveloperplanet). I am also a Core Contributor.
 * Many are also linked from the Java Annotated Monthly of JetBrains (see an example [here](https://blog.jetbrains.com/idea/2023/11/java-annotated-monthly-november-2023/))
 * Some are linked from *This Week in Spring* of the Spring blog (see an example [here](https://spring.io/blog/2024/01/02/this-week-in-spring-january-1st-2024/))
 
