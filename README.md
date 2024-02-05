@@ -16,6 +16,7 @@
 
 ### Developer Community Sessions
 At TriOpSys, we share knowledge by means of Developer Community Sessions. I have given the following sessions:
+* February 2024 - What's new between Java 17 and Java 21
 * December 2023 - Devoxx 2023, latest trends in the area of Java
 * September 2023 - Introduction to Ansible
 * July 2023 - Docker Good Practices
