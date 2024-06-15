@@ -12,7 +12,7 @@
 * Some are linked from *This Week in Spring* of the Spring blog (see an example [here](https://spring.io/blog/2024/01/02/this-week-in-spring-january-1st-2024/))
 
 ### Articles
-* May 2023 - NLJUG Java Magazine 02/2023, Test Automation with Robot Framework
+* May 2023 - [NLJUG Java Magazine 02/2023](https://nljug.org/java-magazine/2023-editie-2/java-magazine-2-2023-nljug-20-year-anniversary/), Test Automation with Robot Framework
 
 ### Developer Community Sessions
 At TriOpSys, we share knowledge by means of Developer Community Sessions. I have given the following sessions:
