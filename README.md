@@ -1,5 +1,5 @@
 ### About Me
-* Systems Engineer at [TriOpsys](https://www.triopsys.nl)
+* Senior Systems Engineer at [ICT TriOpsys](https://www.triopsys.nl)
 * [Blog](https://www.mydeveloperplanet.com)
 * [X](https://twitter.com/mydevlprplanet)
 * [LinkedIn](https://www.linkedin.com/in/gunter-rotsaert-5402a912/)
@@ -25,6 +25,7 @@ At TriOpSys, we share knowledge by means of Developer Community Sessions. I have
 * July 2021 - A Pitch for Python
 
 ### Presentations
+* 2024 - Devoxx Belgium, [DevoxxGenie: Your AI Assistant for IDEA](https://www.youtube.com/watch?v=c5EyVLAXaGQ)
 * 2014 - Nationale Carrière Beurs, [Rise of the new developer](https://mijn.carrierebeurs.nl/workshops/opkomst-van-de-nieuwe-ontwikkelaar/item10348)
 
 ### Awards
