@@ -5,6 +5,7 @@
 * [Bluesky](https://bsky.app/profile/mydeveloperplanet.com)
 * [LinkedIn](https://www.linkedin.com/in/gunter-rotsaert-5402a912/)
 * Frequent visitor of [Devoxx Belgium](https://devoxx.be/), [J-Spring](https://jspring.nl/), [J-Fall](https://jfall.nl/)
+* Open Source Collaborator of [DevoxxGenie](https://github.com/devoxx/DevoxxGenieIDEAPlugin)
 
 ### Technical blogs
 * Started in 2017 writing blogs at [mydeveloperplanet.com](https://www.mydeveloperplanet.com). I write about 20 blogs each year.
