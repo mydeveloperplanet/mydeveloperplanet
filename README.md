@@ -18,6 +18,7 @@
 
 ### Developer Community Sessions
 At TriOpSys, we share knowledge by means of Developer Community Sessions. I have given the following sessions:
+* February 2025 - Unlocking AI Coding Assistants: Real-World Use Cases (at ICT Group)
 * January 2025 - Devoxx 2024 Takeaways
 * February 2024 - What's new between Java 17 and Java 21
 * December 2023 - Devoxx 2023, latest trends in the area of Java
