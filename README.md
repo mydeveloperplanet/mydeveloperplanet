@@ -11,7 +11,7 @@
 * Started in 2017 writing blogs at [mydeveloperplanet.com](https://www.mydeveloperplanet.com). I write about 20 blogs each year.
 * All my blogs are also published at [DZone](https://dzone.com/authors/mydeveloperplanet). See my [profile](https://dzone.com/authors/mydeveloperplanet). I am also a Core Contributor.
 * Many are also linked from the Java Annotated Monthly of JetBrains (see an example [here](https://blog.jetbrains.com/idea/2023/11/java-annotated-monthly-november-2023/))
-* Some are linked from *This Week in Spring* of the Spring blog (see examples [here](https://spring.io/blog/2024/01/02/this-week-in-spring-january-1st-2024/) and [here](https://spring.io/blog/2024/11/19/this-week-in-spring-november-19th-2024))
+* Some are linked from *This Week in Spring* of the Spring blog (see examples [here](https://spring.io/blog/2024/01/02/this-week-in-spring-january-1st-2024/) [here](https://spring.io/blog/2024/11/19/this-week-in-spring-november-19th-2024) and [here](https://spring.io/blog/2025/04/08/this-week-in-spring-april-8th-2025))
 
 ### Articles
 * May 2023 - [NLJUG Java Magazine 02/2023](https://nljug.org/java-magazine/2023-editie-2/java-magazine-2-2023-nljug-20-year-anniversary/), Test Automation with Robot Framework
