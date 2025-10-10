@@ -31,7 +31,7 @@ At TriOpSys, we share knowledge by means of Developer Community Sessions. I have
 
 ### Presentations
 * 2025 - [Upcoming] Tweakers Developers Summit 2025, Real-World Software Engineering with AI Coding Assistants. [Interview Tweakers](https://tweakers.net/plan/4508/dev-summit-2025-missiekritische-software-en-de-rol-van-ai.html)
-* 2025 - [Upcoming] Devoxx Belgium, Unlocking AI Coding Assistants: Real-World Use Cases
+* 2025 - Devoxx Belgium, [Unlocking AI Coding Assistants: Real-World Use Cases](https://www.youtube.com/watch?v=LtAe8EB72OI)
 * 2024 - Devoxx Belgium, [DevoxxGenie: Your AI Assistant for IDEA](https://www.youtube.com/watch?v=c5EyVLAXaGQ)
 * 2014 - Nationale Carrière Beurs, [Rise of the new developer](https://mijn.carrierebeurs.nl/workshops/opkomst-van-de-nieuwe-ontwikkelaar/item10348)
 
