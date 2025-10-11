@@ -13,6 +13,12 @@
 * Many are also linked from the Java Annotated Monthly of JetBrains (see an example [here](https://blog.jetbrains.com/idea/2023/11/java-annotated-monthly-november-2023/))
 * Some are linked from *This Week in Spring* of the Spring blog (see examples [here](https://spring.io/blog/2024/01/02/this-week-in-spring-january-1st-2024/) [here](https://spring.io/blog/2024/11/19/this-week-in-spring-november-19th-2024) and [here](https://spring.io/blog/2025/04/08/this-week-in-spring-april-8th-2025))
 
+### Public speaking
+* 2025 - [Upcoming] Tweakers Developers Summit 2025, Real-World Software Engineering with AI Coding Assistants. [Interview Tweakers](https://tweakers.net/plan/4508/dev-summit-2025-missiekritische-software-en-de-rol-van-ai.html)
+* 2025 - Devoxx Belgium, [Unlocking AI Coding Assistants: Real-World Use Cases](https://www.youtube.com/watch?v=LtAe8EB72OI)
+* 2024 - Devoxx Belgium, [DevoxxGenie: Your AI Assistant for IDEA](https://www.youtube.com/watch?v=c5EyVLAXaGQ)
+* 2014 - Nationale Carrière Beurs, [Rise of the new developer](https://mijn.carrierebeurs.nl/workshops/opkomst-van-de-nieuwe-ontwikkelaar/item10348)
+
 ### Articles
 * May 2023 - [NLJUG Java Magazine 02/2023](https://nljug.org/java-magazine/2023-editie-2/java-magazine-2-2023-nljug-20-year-anniversary/), Test Automation with Robot Framework
 
@@ -28,12 +34,6 @@ At TriOpSys, we share knowledge by means of Developer Community Sessions. I have
 * November 2022 - Devoxx 2022, latest trends in the area of Java
 * September 2021 - Java 17
 * July 2021 - A Pitch for Python
-
-### Presentations
-* 2025 - [Upcoming] Tweakers Developers Summit 2025, Real-World Software Engineering with AI Coding Assistants. [Interview Tweakers](https://tweakers.net/plan/4508/dev-summit-2025-missiekritische-software-en-de-rol-van-ai.html)
-* 2025 - Devoxx Belgium, [Unlocking AI Coding Assistants: Real-World Use Cases](https://www.youtube.com/watch?v=LtAe8EB72OI)
-* 2024 - Devoxx Belgium, [DevoxxGenie: Your AI Assistant for IDEA](https://www.youtube.com/watch?v=c5EyVLAXaGQ)
-* 2014 - Nationale Carrière Beurs, [Rise of the new developer](https://mijn.carrierebeurs.nl/workshops/opkomst-van-de-nieuwe-ontwikkelaar/item10348)
 
 ### Awards
 * NLJUG Innovation Award 2023 - We won the award with TriOpSys with Decision Support Tool for our customer LVNL (air traffic control the Netherlands). I was the driving force for signing up for the award.
