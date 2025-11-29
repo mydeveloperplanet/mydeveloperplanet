@@ -24,6 +24,8 @@
 
 ### Developer Community Sessions
 At TriOpSys, we share knowledge by means of Developer Community Sessions. I have given the following sessions:
+* November 2025 - Unlocking AI Coding Assistants: Real-World Use Cases (Using TriOpSys AI)
+* November 2025 - General AI Use Cases Using TriOpSys AI
 * September 2025 - Agentic Coding
 * February 2025 - Unlocking AI Coding Assistants: Real-World Use Cases (at ICT Group)
 * January 2025 - Devoxx 2024 Takeaways
