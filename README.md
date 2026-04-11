@@ -14,7 +14,7 @@
 * Some are linked from *This Week in Spring* of the Spring blog (see examples [here](https://spring.io/blog/2024/01/02/this-week-in-spring-january-1st-2024/) [here](https://spring.io/blog/2024/11/19/this-week-in-spring-november-19th-2024) and [here](https://spring.io/blog/2025/04/08/this-week-in-spring-april-8th-2025))
 
 ### Public speaking
-* 2026 - VoxxedDays Amsterdam 2026, Testing Architecture Made Simple
+* 2026 - VoxxedDays Amsterdam 2026, [Testing Architecture Made Simple](https://www.youtube.com/watch?v=R4piK1trAw8)
 * 2025 - Tweakers Developers Summit 2025, Real-World Software Engineering with AI Coding Assistants. [Interview Tweakers](https://tweakers.net/plan/4508/dev-summit-2025-missiekritische-software-en-de-rol-van-ai.html)
 * 2025 - Devoxx Belgium, [Unlocking AI Coding Assistants: Real-World Use Cases](https://www.youtube.com/watch?v=LtAe8EB72OI)
 * 2024 - Devoxx Belgium, [DevoxxGenie: Your AI Assistant for IDEA](https://www.youtube.com/watch?v=c5EyVLAXaGQ)
@@ -25,6 +25,7 @@
 
 ### Developer Community Sessions
 At TriOpSys, we share knowledge by means of Developer Community Sessions. I have given the following sessions:
+* April 2026 - Introducing GitHub Copilot
 * November 2025 - Unlocking AI Coding Assistants: Real-World Use Cases (Using TriOpSys AI)
 * November 2025 - General AI Use Cases Using TriOpSys AI
 * September 2025 - Agentic Coding
