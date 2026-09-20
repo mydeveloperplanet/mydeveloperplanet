@@ -14,6 +14,7 @@
 * Some are linked from *This Week in Spring* of the Spring blog (see examples [here](https://spring.io/blog/2024/01/02/this-week-in-spring-january-1st-2024/) [here](https://spring.io/blog/2024/11/19/this-week-in-spring-november-19th-2024) and [here](https://spring.io/blog/2025/04/08/this-week-in-spring-april-8th-2025))
 
 ### Public speaking
+* [Upcoming] 2026 - JFall, Don't Let Your Architecture Drift
 * [Upcoming] 2026 - Devoxx Belgium, Testing Architecture Made Simple
 * 2026 - ICT Tech Summit, Securing Data Privacy with AI Assistants
 * 2026 - VoxxedDays Amsterdam 2026, [Testing Architecture Made Simple](https://www.youtube.com/watch?v=R4piK1trAw8)
