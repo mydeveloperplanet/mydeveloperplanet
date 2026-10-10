@@ -15,7 +15,7 @@
 
 ### Public speaking
 * [Upcoming] 2026 - JFall, Don't Let Your Architecture Drift
-* [Upcoming] 2026 - Devoxx Belgium, Testing Architecture Made Simple
+* 2026 - Devoxx Belgium, [Testing Architecture Made Simple](https://youtu.be/asAxisu6EQ0?si=WYZQoHhJK9XSP0Tw)
 * 2026 - ICT Tech Summit, Securing Data Privacy with AI Assistants
 * 2026 - VoxxedDays Amsterdam 2026, [Testing Architecture Made Simple](https://www.youtube.com/watch?v=R4piK1trAw8)
 * 2025 - Tweakers Developers Summit 2025, Real-World Software Engineering with AI Coding Assistants. [Interview Tweakers](https://tweakers.net/plan/4508/dev-summit-2025-missiekritische-software-en-de-rol-van-ai.html)
