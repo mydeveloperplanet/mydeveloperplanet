@@ -1,5 +1,5 @@
 ### About Me
-* Senior Systems Engineer at [ICT TriOpsys](https://www.triopsys.nl)
+* Requirements Engineer / Software Architect at [ICT TriOpsys](https://www.triopsys.nl)
 * [Blog](https://www.mydeveloperplanet.com)
 * [X](https://twitter.com/mydevlprplanet)
 * [Bluesky](https://bsky.app/profile/mydeveloperplanet.com)
@@ -28,6 +28,7 @@
 
 ### Developer Community Sessions
 At TriOpSys, we share knowledge by means of Developer Community Sessions. I have given the following sessions:
+* September - AI support for the TriOpSys software engineering process
 * May 2026 - Java 25
 * April 2026 - Introducing GitHub Copilot
 * November 2025 - Unlocking AI Coding Assistants: Real-World Use Cases (Using TriOpSys AI)
