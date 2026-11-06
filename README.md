@@ -28,7 +28,7 @@
 
 ### Developer Community Sessions
 At TriOpSys, we share knowledge by means of Developer Community Sessions. I have given the following sessions:
-* September - AI support for the TriOpSys software engineering process
+* September 2026 - AI support for the TriOpSys software engineering process
 * May 2026 - Java 25
 * April 2026 - Introducing GitHub Copilot
 * November 2025 - Unlocking AI Coding Assistants: Real-World Use Cases (Using TriOpSys AI)
